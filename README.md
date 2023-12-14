@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @victorsim01
+- 👀 I’m interested in machine learning, AI.
